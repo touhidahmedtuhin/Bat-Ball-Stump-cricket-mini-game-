@@ -1,0 +1,24 @@
+.button {
+  border: none;
+  background-color: aquamarine;
+  font-size: 25px;
+  margin: 0 10px 0 0;
+  border-radius: 5px;
+  padding: 0 20px;
+  cursor: pointer;
+}
+
+#results {
+      margin-top: 20px;
+      font-size: 20px;
+      padding: 15px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      background-color: #f9f9f9;
+    }
+ #computerChoice  {
+  color: rgb(16, 8, 133);
+ }  
+ #result {
+  color: crimson;
+ }
