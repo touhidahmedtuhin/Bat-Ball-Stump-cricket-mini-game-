@@ -5,8 +5,6 @@ let score = {
   tie :0,
 }
 
-
-
 function batButton() {
 // Generate random number and computer's choice
 let randomNumber = Math.random()*3;
